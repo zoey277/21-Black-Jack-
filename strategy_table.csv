@@ -1,0 +1,16 @@
+2,3,4,5,6,7,8,9,10,A
+9,hit,double/hit,double/hit,double/hit,double/hit,hit,hit,hit,hit,hit
+10,double/hit,double/hit,double/hit,double/hit,double/hit,double/hit,double/hit,double/hit,hit,hit
+11,double/hit,double/hit,double/hit,double/hit,double/hit,double/hit,double/hit,double/hit,double/hit,double/hit
+12,hit,hit,stand,stand,stand,hit,hit,hit,hit,hit
+13,stand,stand,stand,stand,stand,hit,hit,hit,hit,hit
+14,stand,stand,stand,stand,stand,hit,hit,hit,hit,hit
+15,stand,stand,stand,stand,stand,hit,hit,hit,surrender/hit,hit
+16,stand,stand,stand,stand,stand,hit,hit,surrender/hit,surrender/hit,surrender/hit
+"A,2",hit,hit,hit,double/hit,double/hit,hit,hit,hit,hit,hit
+"A,3",hit,hit,hit,double/hit,double/hit,hit,hit,hit,hit,hit
+"A,4",hit,hit,double/hit,double/hit,double/hit,hit,hit,hit,hit,hit
+"A,5",hit,hit,double/hit,double/hit,double/hit,hit,hit,hit,hit,hit
+"A,6",hit,double/hit,double/hit,double/hit,double/hit,hit,hit,hit,hit,hit
+"A,7",stand,double/stand,double/stand,double/stand,double/stand,stand,stand,hit,hit,hit
+"A,8",stand,stand,stand,stand,stand,stand,stand,stand,stand,stand
